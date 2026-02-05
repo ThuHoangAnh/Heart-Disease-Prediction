@@ -19,3 +19,12 @@ Supports multiple ML pipelines (AdaBoost, RandomForest, GradientBoosting, XGBoos
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
+
+2. Run Streamlit app:
+```bash
+streamlit run deploy.py
+```
+
+```md
+Then open: http://localhost:8501
