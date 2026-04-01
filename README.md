@@ -5,6 +5,7 @@ Supports multiple ML pipelines (AdaBoost, RandomForest, GradientBoosting, XGBoos
 
 ## 🌐 Live Demo
 👉 [Try the app here](https://heart-disease-prediction-c3ruqi2bkcwzd949snlw6e.streamlit.app/)
+⚠️ Note: The app may take a few seconds to wake up if it has been inactive.
 
 ## Problem
 Given structured clinical data, build a classification model to predict the presence of heart disease.
