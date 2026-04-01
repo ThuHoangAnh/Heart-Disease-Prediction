@@ -22,5 +22,4 @@ Thumbs.db
 *.log
 
 dataset_v3/
-models/
 *.pdf
