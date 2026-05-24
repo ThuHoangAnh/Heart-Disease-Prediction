@@ -73,7 +73,7 @@ st.write("Enter patient data. The model will predict the likelihood of heart dis
 # -----------------------------
 # Data & Columns
 # -----------------------------
-URL = "https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data"
+URL = "data/processed.cleveland.data"
 COLUMNS = ['age','sex','cp','trestbps','chol','fbs','restecg',
            'thalach','exang','oldpeak','slope','ca','thal','target']
 
